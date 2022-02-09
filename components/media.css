@@ -1,0 +1,10 @@
+@media (min-width: 900px) {
+	.well_reunited {
+		font-size: 12px;
+	}
+}
+@media (max-width:  600px) {
+	.well_reunited {
+		font-size: 100px;
+	}
+}

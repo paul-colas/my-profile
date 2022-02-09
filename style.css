@@ -1,0 +1,72 @@
+@import url("components/header.css");
+
+@import url("components/boutton.css");
+
+@import url("components/under_title.css");
+
+@import url("components/avatar.css");
+
+@import url("components/media");
+
+body{
+	background-image: url(image/fond.jpg);
+	font-family: 'Syne Tactile', cursive;
+}
+
+h1{
+	color: darkblue;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+h2{
+
+}
+a{
+	text-decoration: none;
+}
+.photo_cv{
+	border-radius: 80%;
+	box-shadow: 5px 5px 5px darkblue;
+}
+
+.souscription{
+	display: flex;
+	align-items: center;
+}
+
+
+.body{
+	border-top: 5px ridge darkblue;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.renseignement{
+	border-top: 5px ridge darkblue;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.title{
+	color: darkblue;
+	font-family: Arial, sans-serif;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px darkblue;
+}
+
+.btn-container {
+	display: flex;
+	align-items: center;
+}
+
+.separateur {
+	border-left: 5px ridge darkblue;
+	height: 133px;
+	margin-left: 20px;
+}
+
+
+
+
